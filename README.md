@@ -5,3 +5,5 @@
 * use Context in [context.py](./context.py) to add functions and get functions
 
 * add all functions to Context in [create_context.py](./create_context.py)
+
+* then use every function by text  in [demo.py](./demo.py)
