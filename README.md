@@ -1,0 +1,1 @@
+demo for invoke function from text
